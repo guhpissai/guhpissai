@@ -28,13 +28,13 @@
 <tr><td>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCoruja&show_icons=true&theme=midnight-purple" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=guhpissai&show_icons=true&theme=midnight-purple&count_private=true" />
   </a>
 
 </td><td>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhpissai&layout=compact&theme=midnight-purple" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhpissai&layout=compact&theme=midnight-purple&count_private=true" />
   </a>
 
 </td></tr>
