@@ -24,10 +24,9 @@
 
 <h2>GitHub Stats<h2>
 
-<ul>
-<li><a href="https://github-readme-stats.vercel.app/api?username=guhpissai)](https://github.com/anuraghazra/github-readme-stats" target="_blank"></li>
-<li><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=guhpissai)](https://github.com/anuraghazra/github-readme-stats" target="_blank"></li>
-</ul>
+<a href="https://github-readme-stats.vercel.app/api?username=guhpissai)](https://github.com/anuraghazra/github-readme-stats" target="_blank">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=guhpissai)](https://github.com/anuraghazra/github-readme-stats" target="_blank">
+
 
 
 
