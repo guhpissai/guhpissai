@@ -25,9 +25,8 @@
 <h2>GitHub Stats<h2>
 
 <ul>
-<li>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guhpissai)](https://github.com/anuraghazra/github-readme-stats)</li>
-
-<li>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guhpissai)](https://github.com/anuraghazra/github-readme-stats)</li>
+<li><a href="https://github-readme-stats.vercel.app/api?username=guhpissai)](https://github.com/anuraghazra/github-readme-stats" target="_blank"></li>
+<li><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=guhpissai)](https://github.com/anuraghazra/github-readme-stats" target="_blank"></li>
 </ul>
 
 
