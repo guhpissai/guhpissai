@@ -3,12 +3,13 @@
 <h2>O que eu amo fazer 🧐</h2>
 <ul>
   <li>🎙 Amo assistir um bom podcast, alguns episódios me trazem diversas informações, pensamentos diferentes e experiências de vida. Também tem aqueles episódios super engraçados com grandes personalidades que me fazem super bem.
-  <li>🎮 Adoro <b>jogos</b>, em meu tempo livre costumo procurar algum jogo para me divertir, minhas opções variam entre jogos online e single player, mas para falar a verdade gosto de jogos <b>competitivos</b> ou com alguma <b>dificuldade</b>. </li>
+  <li>🎮 Adoro <b>jogos</b>, em meu tempo livre costumo procurar algum jogo para me divertir, minhas opções variam entre jogos online e single player, mas para falar a verdade gosto de jogos <b>competitivos</b> ou com alguma <b>dificuldade</b>.</li>
   <li>☕ Gosto de passar um tempo com a familia, gerar momentos de felicidade sendo tomando um café juntos ou absorver e gerar aprendizados com os bate-papos.
   <li>🔍 Busco conhecimentos sobre minhas curiosidades, principalmente em tecnologia, sempre querendo descobrir como funcionam.</li>
   <li>🎨 Em alguns momentos gosto de girar a chave e praticar modelagem 3D, fiz diversos cursos sobre o tema e algumas vezes me pego com alguma ideia e tento passa-la para o incrível mundo do 3D.</li>
 </ul>
  <h2>Tecnologias e Ferramentas</h2>
+ <span>
   <img src="https://img.icons8.com/color/512/git.png" alt="Icone Git" style="width:50px" />
   <img src="https://img.icons8.com/color/512/linux.png" alt="Icone Linux" style="width:50px" />
   <img src="https://img.icons8.com/color/512/html-5--v1.png" style="width:50px" />
@@ -17,6 +18,7 @@
   <img src="https://img.icons8.com/ios-filled/512/unreal-engine.png" alt="Icone CSS" style="width:50px" />
   <img src="https://img.icons8.com/color/512/zbrush.png" style="width:50px" />
   <img src="https://img.icons8.com/color/512/autodesk-maya.png" style="width:50px" /><br>
+  </span>
   <h2>Minhas redes sociais</h2>
   <a href="https://www.linkedin.com/in/gustavo-pio-pissai-aa736a160/" target="_blank"><img src="https://img.icons8.com/fluency/512/linkedin-circled.png" style="width:50px;height:50px;"></a>
   <a href="mailto:gustavopissai3d@gmail.com" target="_blank"><img src="https://img.icons8.com/color/512/gmail.png" style="width:50px;height:50px;"></a>
