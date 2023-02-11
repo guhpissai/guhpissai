@@ -23,7 +23,6 @@
   <a href="https://www.instagram.com/guhpissai/" target="_blank"><img src="https://img.icons8.com/fluency/512/instagram-new.png" style="width:50px;height:50px;"></a>
 
 <h2>GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guhpissai)](https://github.com/guhpissai/github-readme-stats)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guhpissai&count_private=true&show_icons=true&theme=midnight-purple)
 
 
