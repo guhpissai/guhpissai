@@ -22,7 +22,7 @@
   <a href="mailto:gustavopissai3d@gmail.com" target="_blank"><img src="https://img.icons8.com/color/512/gmail.png" style="width:50px;height:50px;"></a>
   <a href="https://www.instagram.com/guhpissai/" target="_blank"><img src="https://img.icons8.com/fluency/512/instagram-new.png" style="width:50px;height:50px;"></a>
     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guhpissai&count_private=true&show_icons=true&theme=midnight-purple)
 
 
     
