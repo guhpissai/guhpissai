@@ -24,6 +24,10 @@
 
 <h2>GitHub Stats<h2>
 
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCoruja&show_icons=true&theme=blue-green" />
+  </a>
+
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhpissai&layout=compact&theme=blue-green" />
   </a>
