@@ -22,7 +22,6 @@
   <h2>Minhas redes sociais</h2>
   <a href="https://www.linkedin.com/in/gustavo-pio-pissai-aa736a160/" target="_blank"><img src="https://img.icons8.com/fluency/512/linkedin-circled.png" style="width:50px;height:50px;"></a>
   <a href="mailto:gustavopissai3d@gmail.com" target="_blank"><img src="https://img.icons8.com/color/512/gmail.png" style="width:50px;height:50px;"></a>
-  <a href="https://www.instagram.com/guhpissai/" target="_blank"><img src="https://img.icons8.com/fluency/512/instagram-new.png" style="width:50px;height:50px;"></a>
 
 <h2>GitHub Stats<h2>
 
