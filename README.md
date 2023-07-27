@@ -8,21 +8,30 @@
   <li>🔍 Busco conhecimentos sobre minhas curiosidades, principalmente em tecnologia, sempre querendo descobrir como funcionam.</li>
   <li>🎨 Em alguns momentos gosto de girar a chave e praticar modelagem 3D, fiz diversos cursos sobre o tema e algumas vezes me pego com alguma ideia e tento passa-la para o incrível mundo do 3D.</li>
 </ul>
- <h2>Tecnologias e Ferramentas</h2>
- <span>
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="Icone Git" style="width:50px" />
-  <img src="https://img.icons8.com/color/512/git.png" alt="Icone Git" style="width:50px" />
-  <img src="https://img.icons8.com/color/512/linux.png" alt="Icone Linux" style="width:50px" />
-  <img src="https://img.icons8.com/color/512/html-5--v1.png" style="width:50px" />
-  <img src="https://img.icons8.com/color/512/javascript.png" alt="Icone JS" style="width:50px" />
-  <img src="https://img.icons8.com/color/512/css3.png" alt="Icone CSS" style="width:50px" />
-  <img src="https://img.icons8.com/ios-filled/512/unreal-engine.png" alt="Icone CSS" style="width:50px" />
-  <img src="https://img.icons8.com/color/512/zbrush.png" style="width:50px" />
-  <img src="https://img.icons8.com/color/512/autodesk-maya.png" style="width:50px" /><br>
-  </span>
+ <h2>Tecnologias e Frameworks</h2>
+ <div>
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="Icone React" height="auto" width="100" style="border-radius:50%" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="Icone Html" height="auto" width="100" style="border-radius:50%" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="Icone CSS" height="auto" width="88" style="border-radius:50%" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="Icone JavaScript" height="auto" width="140" style="border-radius:50%" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="Icone TypeScript" height="auto" width="140" style="border-radius:50%" />
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Icone NodeJs" height="auto" width="111" style="border-radius:50%" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Icone Figma" height="auto" width="100" style="border-radius:50%" />
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Icone Git" height="auto" width="80" style="border-radius:50%" />
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Icone Linux" height="auto" width="100" style="border-radius:50%" />
+  <img src="https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white" alt="Testing Library" height="auto" width="200" style="border-radius:50%" />
+  <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Icone Jest" height="auto" width="90" style="border-radius:50%" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="Icone MySql" height="auto" width="104" style="border-radius:50%" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Icone Sequelize" height="auto" width="140" style="border-radius:50%" />
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Icone Express" height="auto" width="130" style="border-radius:50%" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Icone Docker" height="auto" width="120" style="border-radius:50%" />
+  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="Icone Docker" height="auto" width="88" style="border-radius:50%" />
+  </div>
+
+  
   <h2>Minhas redes sociais</h2>
-  <a href="https://www.linkedin.com/in/gustavo-pio-pissai-aa736a160/" target="_blank"><img src="https://img.icons8.com/fluency/512/linkedin-circled.png" style="width:50px;height:50px;"></a>
-  <a href="mailto:gustavopissai3d@gmail.com" target="_blank"><img src="https://img.icons8.com/color/512/gmail.png" style="width:50px;height:50px;"></a>
+  <a href="https://www.linkedin.com/in/gustavo-pio-pissai-aa736a160/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="auto" width="140" style="border-radius:50%"></a>
+  <a href="mailto:gustavopissai3d@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" height="auto" width="110" style="border-radius:50%"></a>
 
 <h2>GitHub Stats<h2>
 
