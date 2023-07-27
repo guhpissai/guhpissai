@@ -10,6 +10,7 @@
 </ul>
  <h2>Tecnologias e Ferramentas</h2>
  <span>
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="Icone Git" style="width:50px" />
   <img src="https://img.icons8.com/color/512/git.png" alt="Icone Git" style="width:50px" />
   <img src="https://img.icons8.com/color/512/linux.png" alt="Icone Linux" style="width:50px" />
   <img src="https://img.icons8.com/color/512/html-5--v1.png" style="width:50px" />
