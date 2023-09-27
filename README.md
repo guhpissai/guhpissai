@@ -1,4 +1,4 @@
-<h2>Welcome!</h2>
+# Welcome!
 <p>Olá, me chamo Gustavo Pio Pissai, sou de Itapecerica da Serra - SP. Sou apaixonado por tecnologia e esta paixão me gerou diversas conquistas, me formei em Jogos Digitais pela Universidade Nove de Julho onde tive contato com programação e modelagem, após formado busquei conhecimentos em <b>modelagem 3D</b> para me desenvolver artisticamente e tecnicamente. Atualmente sou estudante da <b>Trybe</b>, com o objetivo de me formar e ter domínio sobre o <b>desenvolvimento web</b>.</p>
 <h2>O que eu amo fazer 🧐</h2>
 <ul>
@@ -8,7 +8,7 @@
   <li>🔍 Busco conhecimentos sobre minhas curiosidades, principalmente em tecnologia, sempre querendo descobrir como funcionam.</li>
   <li>🎨 Em alguns momentos gosto de girar a chave e praticar modelagem 3D, fiz diversos cursos sobre o tema e algumas vezes me pego com alguma ideia e tento passa-la para o incrível mundo do 3D.</li>
 </ul>
- <h2>Tecnologias e Frameworks</h2>
+ ## Tecnologias e Frameworks
  <div>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="Icone React" height="auto" width="100" style="border-radius:50%" />
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="Icone Html" height="auto" width="100" style="border-radius:50%" />
@@ -29,11 +29,11 @@
   </div>
 
   
-  <h2>Minhas redes sociais</h2>
+  ## Minhas redes sociais</h2>
   <a href="https://www.linkedin.com/in/gustavo-pio-pissai-aa736a160/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="auto" width="140" style="border-radius:50%"></a>
   <a href="mailto:gustavopissai3d@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" height="auto" width="110" style="border-radius:50%"></a>
 
-<h2>GitHub Stats<h2>
+## GitHub Stats
 
 <table>
 <tr><td>
