@@ -12,10 +12,12 @@ const gustavo = {
     technologies: {
         frontEnd: {
             js: ["React"]
-        }
+        },
         backEnd: {
             js: ["Node", "Express"],
+            java: ["Spring"],
         },
+        others: ["Python"],
         devOps: ["Docker🐳"],
         databases: ["MySql"],
     },
