@@ -2,7 +2,7 @@
 
 Hello there! I'm <b>Gustavo Pissai</b>, a dedicated student in the exciting world of web development. With a burning passion for technology, I am on a journey to explore the vast realms of web development and beyond. My enthusiasm drives me to learn, create, and innovate, aspiring to make a meaningful impact in the digital landscape.
 
-## A little about me
+## :mag: A little about me
 
 ```javascript
 const gustavo = {
